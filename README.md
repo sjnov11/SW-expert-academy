@@ -1,2 +1,2 @@
 # SW-expert-academy
-Samsug SW expert academy solution codes
+Samsung SW expert academy solution codes
